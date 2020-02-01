@@ -14,7 +14,7 @@
 [![Build status][3]][4]
 [![GitHub Releases Download][5]][6]
 [![dev branch][7]][8]
-[![GitHub license][9]][10] -->
+[![GitHub license][9]][10] --> 
 
 <!-- [1]: https://img.shields.io/github/release/lyswhut/lx-music-desktop
 [2]: https://github.com/lyswhut/lx-music-desktop/releases
